@@ -1,0 +1,27 @@
+# Frontend-skräp
+.vscode/
+
+# Backend-skräp
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+
+# Loggfiler
+*.log
+
+# Datafiler
+data/
+data/*.db
+uploads/
+
+# Testfiler
+tests/
+temp/
+
+# Systemfiler
+.DS_Store
+Thumbs.db
+.env

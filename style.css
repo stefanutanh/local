@@ -1,0 +1,27 @@
+/* Sidebar layout */
+[data-testid="stSidebar"] {
+    display: flex;
+    flex-direction: column;
+}
+
+/* Innehåll längst ner i sidebar */
+.bottom-content {
+    margin-top: auto;
+    padding-top: 20px;
+    border-top: 1px solid #ddd;
+}
+
+.bottom-content p {
+    margin: 5px 0;
+}
+
+.bottom-content .user-title {
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.bottom-content .user-role,
+.bottom-content .user-name {
+    font-size: 12px;
+    color: #ffffff;
+}

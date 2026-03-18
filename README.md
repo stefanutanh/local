@@ -34,7 +34,7 @@ Följande måste vara installerat innan du börjar:
 ### 1. Klona projektet
 
 ```bash
-git clone https://github.com/stefanutanh/regionlocal.git
+git clone https://github.com/stefanutanh/local.git
 cd regionlocal
 ```
 
